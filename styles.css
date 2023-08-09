@@ -1,0 +1,33 @@
+body, html {
+  height: 100%;
+}
+
+
+.bgimg {
+  background-image: url('images/wepik-export.jpeg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+/* Link below contact me title */
+.p-link {
+  color: white;
+}
+
+.contact-home-link {
+  color: white;
+}
+/* My photo at the home page */
+.my-photo {
+  width: 100px;
+  border-radius: 20%;
+}
+
+.skills-logo {
+  width: 45px;
+}
+
+.project-button-link {
+  text-decoration: none;
+  color: black;
+}
