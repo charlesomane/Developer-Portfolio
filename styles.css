@@ -1,0 +1,13 @@
+.projects-more{
+    display: flex;
+    align-content: center;
+}
+
+.white{
+    color: white;
+}
+
+.skills-logo {
+    width: 45px;
+}
+
